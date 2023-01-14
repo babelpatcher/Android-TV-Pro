@@ -1,0 +1,738 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bein-sports-01" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F892%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS",BeIN Sport 1 Premium
+https://idcloud.tech/get.php?channel=bein-sports-01
+
+#EXTINF:-1 tvg-id="bein-sports-02" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F893%2Fbein-sports-premium-1.png" group-title="BEIN SPORTS",BeIN Sport 2 Premium
+https://idcloud.tech/get.php?channel=bein-sports-02
+
+#EXTINF:-1 tvg-id="bein-sports-03" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="BEIN SPORTS",BeIN Sport 3 Premium
+https://idcloud.tech/get.php?channel=bein-sports-03
+
+#EXTINF:-1 tvg-id="bein-sports-04" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS",BeIN Sports 1 HD
+https://idcloud.tech/get.php?channel=bein-sports-04
+
+#EXTINF:-1 tvg-id="bein-sports-05" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS",BeIN Sports 2 HD
+https://idcloud.tech/get.php?channel=bein-sports-05
+
+#EXTINF:-1 tvg-id="bein-sports-06" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS",BeIN Sports 3 HD
+https://idcloud.tech/get.php?channel=bein-sports-06
+
+#EXTINF:-1 tvg-id="bein-sports-07" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN SPORTS",BeIN Sports 4 HD
+https://idcloud.tech/get.php?channel=bein-sports-07
+
+#EXTINF:-1 tvg-id="bein-sports-08" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN SPORTS 4K",BeIN Sport 1 EN
+https://idcloud.tech/get.php?channel=bein-sports-08
+
+#EXTINF:-1 tvg-id="bein-sports-09" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN SPORTS 4K",BeIN Sport 2 EN
+https://idcloud.tech/get.php?channel=bein-sports-09
+
+#EXTINF:-1 tvg-id="bein-sports-10" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN SPORTS 4K",BeIN Sport 3 EN
+https://idcloud.tech/get.php?channel=bein-sports-10
+
+#EXTINF:-1 tvg-id="bein-sports-11" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 1 4K
+https://idcloud.tech/get.php?channel=bein-sports-11
+
+#EXTINF:-1 tvg-id="bein-sports-12" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 2 4K
+https://idcloud.tech/get.php?channel=bein-sports-12
+
+#EXTINF:-1 tvg-id="bein-sports-13" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 3 4K
+https://idcloud.tech/get.php?channel=bein-sports-13
+
+#EXTINF:-1 tvg-id="bein-sports-14" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 4 4K
+https://idcloud.tech/get.php?channel=bein-sports-14
+
+#EXTINF:-1 tvg-id="bein-sports-15" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 5 4K
+https://idcloud.tech/get.php?channel=bein-sports-15
+
+#EXTINF:-1 tvg-id="bein-sports-16" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 6 4K
+https://idcloud.tech/get.php?channel=bein-sports-16
+
+#EXTINF:-1 tvg-id="bein-sports-17" tvg-logo="http://www.digiturk.com.tr/assets/img/dummy/ligtv_10.png" group-title="BEIN SPORTS 4K",BeIN SPORTS 7 4K
+https://idcloud.tech/get.php?channel=bein-sports-17
+
+#EXTINF:-1 tvg-id="mnc-sports-01" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="MNC SPORTS",Fight Sports
+https://idcloud.tech/get.php?channel=mnc-sports-01
+
+#EXTINF:-1 tvg-id="mnc-sports-02" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_420.png" group-title="MNC SPORTS",MNC Soccer
+https://idcloud.tech/get.php?channel=mnc-sports-02
+
+#EXTINF:-1 tvg-id="mnc-sports-03" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="MNC SPORTS",MNC Sports 1 
+https://idcloud.tech/get.php?channel=mnc-sports-03
+
+#EXTINF:-1 tvg-id="mnc-sports-04" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="MNC SPORTS",MNC Sports 2
+https://idcloud.tech/get.php?channel=mnc-sports-04
+
+#EXTINF:-1 tvg-id="mnc-sports-05" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="MNC SPORTS",MNC Sports 3
+https://idcloud.tech/get.php?channel=mnc-sports-05
+
+#EXTINF:-1 tvg-id="mnc-sports-06" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png" group-title="MNC SPORTS",SPO TV
+https://idcloud.tech/get.php?channel=mnc-sports-06
+
+#EXTINF:-1 tvg-id="mnc-sports-07" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="MNC SPORTS",SPO TV 2
+https://idcloud.tech/get.php?channel=mnc-sports-07
+
+#EXTINF:-1 tvg-id="nasional-antv-vid" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="NASIONAL",ANTV (VID)
+https://idcloud.tech/get.php?channel=nasional-antv-vid
+
+#EXTINF:-1 tvg-id="nasional-antv-vsn" tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="NASIONAL",ANTV (VSN)
+https://idcloud.tech/get.php?channel=nasional-antv-vsn
+
+#EXTINF:-1 tvg-id="nasional-daai-vid" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="NASIONAL",DAAI (VID)
+https://idcloud.tech/get.php?channel=nasional-daai-vid
+
+#EXTINF:-1 tvg-id="nasional-daai-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="NASIONAL",DAAI (VSN)
+https://idcloud.tech/get.php?channel=nasional-daai-vsn
+
+#EXTINF:-1 tvg-id="nasional-gtv-r+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GlobalTV_Indonesia_2012.svg/1200px-GlobalTV_Indonesia_2012.svg.png" group-title="NASIONAL",GTV
+https://idcloud.tech/get.php?channel=nasional-gtv-r+
+
+#EXTINF:-1 tvg-id="nasional-gtv-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GlobalTV_Indonesia_2012.svg/1200px-GlobalTV_Indonesia_2012.svg.png" group-title="NASIONAL",GTV (VSN)
+https://idcloud.tech/get.php?channel=nasional-gtv-vsn
+
+#EXTINF:-1 tvg-id="nasional-indosiar-vid" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="NASIONAL",_INDOSIAR
+https://idcloud.tech/get.php?channel=nasional-indosiar-vid
+
+#EXTINF:-1 tvg-id="nasional-moji-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/61eKXJZ8rqs1Kx_Q2Xl46K9dQKc=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-5955b6.jpg" group-title="NASIONAL",_Moji
+https://idcloud.tech/get.php?channel=nasional-moji-vid
+
+#EXTINF:-1 tvg-id="nasional-inews-r+" tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="NASIONAL",iNews
+https://idcloud.tech/get.php?channel=nasional-inews-r+
+
+#EXTINF:-1 tvg-id="nasional-inews-vsn" tvg-logo="https://i.postimg.cc/9F2sdNhY/inews.png" group-title="NASIONAL",iNews (VSN)
+https://idcloud.tech/get.php?channel=nasional-inews-vsn
+
+#EXTINF:-1 tvg-id="nasional-jaktv-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png" group-title="NASIONAL",JAKTV (VID)
+https://idcloud.tech/get.php?channel=nasional-jaktv-vid
+
+#EXTINF:-1 tvg-id="nasional-jaktv-vsn" tvg-logo="https://thumbor.prod.vidiocdn.com/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png" group-title="NASIONAL",JakTV (VSN)
+https://idcloud.tech/get.php?channel=nasional-jaktv-vsn
+
+#EXTINF:-1 tvg-id="nasional-jtv-vid"  tvg-logo="https://thumbor.prod.vidiocdn.com/4e5Dt47oZTCIE5dkUP2DwFl_bd8=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9713/a11faf.png" group-title="NASIONAL",JTV (VID)
+https://idcloud.tech/get.php?channel=nasional-jtv-vid
+
+#EXTINF:-1 tvg-id="nasional-jtv-vsn" tvg-logo="https://i.postimg.cc/Y0wNLNM9/jtv.png" group-title="NASIONAL",JTV (VSN)
+https://idcloud.tech/get.php?channel=nasional-jtv-vsn
+
+#EXTINF:-1 tvg-id="nasional-kompas-vid" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="NASIONAL",KOMPAS (VID)
+https://idcloud.tech/get.php?channel=nasional-kompas-vid
+
+#EXTINF:-1 tvg-id="nasional-kompas-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="NASIONAL",KOMPAS (VSN)
+https://idcloud.tech/get.php?channel=nasional-kompas-vsn
+
+#EXTINF:-1 tvg-id="nasional-metrotv-vid" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="NASIONAL",METRO TV (VID)
+https://idcloud.tech/get.php?channel=nasional-metrotv-vid
+
+#EXTINF:-1 tvg-id="nasional-metrotv-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="NASIONAL",METRO TV (VSN)
+https://idcloud.tech/get.php?channel=nasional-metrotv-vsn
+
+#EXTINF:-1 tvg-id="nasional-mnc-r+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="NASIONAL",MNC
+https://idcloud.tech/get.php?channel=nasional-mnc-r+
+
+#EXTINF:-1 tvg-id="nasional-mnc-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="NASIONAL",MNC TV (VSN)
+https://idcloud.tech/get.php?channel=nasional-mnc-vsn
+
+#EXTINF:-1 tvg-id="nasional-net-vid" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="NASIONAL",NET (VID)
+https://idcloud.tech/get.php?channel=nasional-net-vid
+
+#EXTINF:-1 tvg-id="nasional-net-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="NASIONAL",NET (VSN)
+https://idcloud.tech/get.php?channel=nasional-net-vsn
+
+#EXTINF:-1 tvg-id="nasional-rcti-r+" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="NASIONAL",RCTI
+https://idcloud.tech/get.php?channel=nasional-rcti-r+
+
+#EXTINF:-1 tvg-id="nasional-rcti-vsn" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="NASIONAL",RCTI (VSN)
+https://idcloud.tech/get.php?channel=nasional-rcti-vsn
+
+#EXTINF:-1 tvg-id="nasional-rtv-vid" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_hn.png" group-title="NASIONAL",RTV (VID)
+https://idcloud.tech/get.php?channel=nasional-rtv-vid
+
+#EXTINF:-1 tvg-id="nasional-rtv-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv_hn.png" group-title="NASIONAL",RTV (VSN)
+https://idcloud.tech/get.php?channel=nasional-rtv-vsn
+
+#EXTINF:-1 tvg-id="nasional-sctv-dens" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NASIONAL",SCTV
+https://idcloud.tech/get.php?channel=nasional-sctv-dens
+
+#EXTINF:-1 tvg-id="nasional-sctv-vid" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="NASIONAL",SCTV (VID)
+https://idcloud.tech/get.php?channel=nasional-sctv-vid
+
+#EXTINF:-1 tvg-id="nasional-trans7-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7
+https://idcloud.tech/get.php?channel=nasional-trans7-vsn
+
+#EXTINF:-1 tvg-id="nasional-trans7-vid" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7 (VID)
+https://idcloud.tech/get.php?channel=nasional-trans7-vid
+
+#EXTINF:-1 tvg-id="nasional-trans7-detik" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7 (Alt)
+https://idcloud.tech/get.php?channel=nasional-trans7-detik
+
+#EXTINF:-1 tvg-id="nasional-transtv-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV
+https://idcloud.tech/get.php?channel=nasional-transtv-vsn
+
+#EXTINF:-1 tvg-id="nasional-transtv-vid" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV (VID)
+https://idcloud.tech/get.php?channel=nasional-transtv-vid
+
+#EXTINF:-1 tvg-id="nasional-transtv-detik" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV (Alt)
+https://idcloud.tech/get.php?channel=nasional-transtv-detik
+
+#EXTINF:-1 tvg-id="nasional-tvone-vid" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="NASIONAL",TV ONE (VID)
+https://idcloud.tech/get.php?channel=nasional-tvone-vid
+
+#EXTINF:-1 tvg-id="nasional-tvone-vsn" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="NASIONAL",TV ONE (VSN)
+https://idcloud.tech/get.php?channel=nasional-tvone-vsn
+
+#EXTINF:-1 tvg-id="nasional-tvri-vid" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="NASIONAL",TVRI (VID)
+https://idcloud.tech/get.php?channel=nasional-tvri-vid
+
+#EXTINF:-1 tvg-id="nasional-tvri-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="NASIONAL",TVRI (VSN)
+https://idcloud.tech/get.php?channel=nasional-tvri-vsn
+
+#EXTINF:-1 tvg-id="berita-abc-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/800px-ABC_Australia_logo.svg.png" group-title="BERITA",ABC Australia
+https://idcloud.tech/get.php?channel=berita-abc-vsn
+
+#EXTINF:-1 tvg-id="berita-aljazeera-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/Aljazeera_eng.png" group-title="BERITA",Aljazeera
+https://idcloud.tech/get.php?channel=berita-aljazeera-vsn
+
+#EXTINF:-1 tvg-id="berita-bbcworld-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="BERITA",BBC World News
+https://idcloud.tech/get.php?channel=berita-bbcworld-vsn
+
+#EXTINF:-1 tvg-id="berita-berita1-vsn" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png" group-title="BERITA",Berita Satu
+https://idcloud.tech/get.php?channel=berita-berita1-vsn
+
+#EXTINF:-1 tvg-id="berita-berita1-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/DKANEUKIVCBG1x62TxXS33Tue0g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/a712b0.png" group-title="BERITA",Berita Satu (VID)
+https://idcloud.tech/get.php?channel=berita-berita1-vid
+
+#EXTINF:-1 tvg-id="berita-berita1world" tvg-logo="https://i.postimg.cc/zv5gX4Qg/BERITA-SATU-WORLD.png" group-title="BERITA",BERITA SATU WORLD
+https://idcloud.tech/get.php?channel=berita-berita1world
+
+#EXTINF:-1 tvg-id="berita-bloomberg-vsn" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="BERITA",Bloomberg News
+https://idcloud.tech/get.php?channel=berita-bloomberg-vsn
+
+#EXTINF:-1 tvg-id="berita-cna-vsn" tvg-logo="https://i.postimg.cc/RZbKQsW-k/logo-newsasia-big.png" group-title="BERITA",Channel News Asia
+https://idcloud.tech/get.php?channel=berita-cna-vsn
+
+#EXTINF:-1 tvg-id="berita-cna-vid" tvg-logo="https://i.postimg.cc/RZbKQsW-k/logo-newsasia-big.png" group-title="BERITA",Channel News Asia (VID)
+https://idcloud.tech/get.php?channel=berita-cna-vid
+
+#EXTINF:-1 tvg-id="berita-cnbc-live" tvg-logo="https://i.postimg.cc/CMH86LZH/CNBC-INDO.png" group-title="BERITA",CNBC INDONESIA
+https://idcloud.tech/get.php?channel=berita-cnbc-live
+
+#EXTINF:-1 tvg-id="berita-cnnindonesia-live" tvg-logo="https://i.postimg.cc/Y0w1Lvvj/logo-cnnindonesia-big1.png" group-title="BERITA",CNN INDONESIA
+https://idcloud.tech/get.php?channel=berita-cnnindonesia-live
+
+#EXTINF:-1 tvg-id="berita-france24-vsn" tvg-logo="https://i.postimg.cc/HWQ0D9NM/logo-france24-big.png" group-title="BERITA",France 24 English
+https://idcloud.tech/get.php?channel=berita-france24-vsn
+
+#EXTINF:-1 tvg-id="berita-idx-vsn" tvg-logo="https://i.postimg.cc/9Qfy95QP/logo-idx-big.png" group-title="BERITA",IDX 
+https://idcloud.tech/get.php?channel=berita-idx-vsn
+
+#EXTINF:-1 tvg-id="berita-jgn-edge" tvg-logo="https://i.postimg.cc/8zpwVzZp/jakarta-globe.png" group-title="BERITA",Jakarta Globe News Channel TV
+https://idcloud.tech/get.php?channel=berita-jgn-edge
+
+#EXTINF:-1 tvg-id="berita-mncnew-vsn" tvg-logo="https://i.postimg.cc/wvR9qRGp/MNC-NEWS.png" group-title="BERITA",MNC News
+https://idcloud.tech/get.php?channel=berita-mncnew-vsn
+
+#EXTINF:-1 tvg-id="berita-voa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/1200px-VOA_logo.svg.png" group-title="BERITA",Voa Indonesia
+https://idcloud.tech/get.php?channel=berita-voa
+
+#EXTINF:-1 tvg-id="berita-wion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="BERITA",WION
+https://idcloud.tech/get.php?channel=berita-wion
+
+#EXTINF:-1 tvg-id="indonesia-aditv" tvg-logo="https://i.postimg.cc/N08p3Wgx/ADITV.png" group-title="INDONESIA",ADI TV
+https://idcloud.tech/get.php?channel=indonesia-aditv
+
+#EXTINF:-1 tvg-id="indonesia-badartv" tvg-logo="https://i.postimg.cc/T1QW4qr4/BADAR-TV.png" group-title="INDONESIA",BADAR TV (BRTV)
+https://idcloud.tech/get.php?channel=indonesia-badartv
+
+#EXTINF:-1 tvg-id="indonesia-balitv" tvg-logo="https://i.postimg.cc/3Nnyr2wz/bali.png" group-title="INDONESIA",BALI TV 
+https://idcloud.tech/get.php?channel=indonesia-balitv
+
+#EXTINF:-1 tvg-id="indonesia-bandungtv" tvg-logo="https://i.postimg.cc/kX8vStpX/bandung-tv.png" group-title="INDONESIA",Bandung TV
+https://idcloud.tech/get.php?channel=indonesia-bandungtv
+
+#EXTINF:-1 tvg-id="indonesia-radar-cirebon" tvg-logo="https://i.postimg.cc/2ywQ5QmK/rctv.png" group-title="INDONESIA",Radar Cirebon TV
+https://idcloud.tech/get.php?channel=indonesia-radar-cirebon
+
+#EXTINF:-1 tvg-id="indonesia-garudatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/1280px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="INDONESIA",GARUDA TV
+https://idcloud.tech/get.php?channel=indonesia-garudatv
+
+#EXTINF:-1 tvg-id="indonesia-jambitv" tvg-logo="https://i.postimg.cc/mZdcTXJT/JAMBI-TV.png" group-title="INDONESIA",JAMBI TV
+https://idcloud.tech/get.php?channel=indonesia-jambitv
+
+#EXTINF:-1 tvg-id="indonesia-jektv-jambi" tvg-logo="https://i.postimg.cc/sDbjP8Dx/JEK-TV.png" group-title="INDONESIA",JekTv Jambi
+https://idcloud.tech/get.php?channel=indonesia-jektv-jambi
+
+#EXTINF:-1 tvg-id="indonesia-kawanua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_JPM_Jawapos.png" group-title="INDONESIA",KAWANUA JPM
+https://idcloud.tech/get.php?channel=indonesia-kawanua
+
+#EXTINF:-1 tvg-id="indonesia-magnatv" tvg-logo="https://i.postimg.cc/ZqJ9wG6n/magna-channel.png" group-title="INDONESIA",MAGNA TV
+https://idcloud.tech/get.php?channel=indonesia-magnatv
+
+#EXTINF:-1 tvg-id="indonesia-megaswaratv" tvg-logo="https://i.postimg.cc/J4Mc1QpY/mgstv.png" group-title="INDONESIA",MEGASWARA TV
+https://idcloud.tech/get.php?channel=indonesia-megaswaratv
+
+#EXTINF:-1 tvg-id="indonesia-nusantara-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/jRXTcft4R8nvv-MAtpXEyrSV7XU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="INDONESIA",Nusantara TV
+https://idcloud.tech/get.php?channel=indonesia-nusantara-vid
+
+#EXTINF:-1 tvg-id="indonesia-paltv" tvg-logo="https://i.postimg.cc/fRXw8KJK/PAL-TV.png" group-title="INDONESIA",PAL TV
+https://idcloud.tech/get.php?channel=indonesia-paltv
+
+#EXTINF:-1 tvg-id="indonesia-ranstv-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/2Y97SNyJjIVnLM-XKkKyJOglFuU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg" group-title="INDONESIA",Rans TV
+https://idcloud.tech/get.php?channel=indonesia-ranstv-vid
+
+#EXTINF:-1 tvg-id="indonesia-rri-indihometv" tvg-logo="https://i.postimg.cc/RhRt3jgs/rri-net.png" group-title="INDONESIA",RRI NET
+https://idcloud.tech/get.php?channel=indonesia-rri-indihometv
+
+#EXTINF:-1 tvg-id="indonesia-saktitv" tvg-logo="https://i.postimg.cc/65gyv7BS/SAKTI-TV.png" group-title="INDONESIA",SAKTI TV
+https://idcloud.tech/get.php?channel=indonesia-saktitv
+
+#EXTINF:-1 tvg-id="indonesia-smtv" tvg-logo="https://i.postimg.cc/L6fs0wnX/SMTV.png" group-title="INDONESIA",SMTV Sumedang
+https://idcloud.tech/get.php?channel=indonesia-smtv
+
+#EXTINF:-1 tvg-id="indonesia-tatv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="INDONESIA",TATV
+https://idcloud.tech/get.php?channel=indonesia-tatv
+
+#EXTINF:-1 tvg-id="indonesia-tegartv" tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu-gUr594SP9-EDn2Lmwj22GXfDg1tQn8pyO8VCA-Q=s900-c-k-c0x00ffffff-no-rj" group-title="INDONESIA",TEGAR TV
+https://idcloud.tech/get.php?channel=indonesia-tegartv
+
+#EXTINF:-1 tvg-id="indonesia-tvku" tvg-logo="https://i.postimg.cc/Y0spsD6X/tvku.png" group-title="INDONESIA",TVKU
+https://idcloud.tech/get.php?channel=indonesia-tvku
+
+#EXTINF:-1 tvg-id="indonesia-ugtv" tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title="INDONESIA",UG TV
+https://idcloud.tech/get.php?channel=indonesia-ugtv
+
+#EXTINF:-1tvg-id="hbo-hbo-vsn" tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO",HBO 
+https://idcloud.tech/get.php?channel=hbo-hbo-vsn
+
+#EXTINF:-1 tvg-id="hbo-hbo-family-vsn" tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO",HBO FAMILY 
+https://idcloud.tech/get.php?channel=hbo-hbo-family-vsn
+
+#EXTINF:-1 tvg-id="hbo-hbo-hits-vsn" tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="HBO",HBO HITS
+https://idcloud.tech/get.php?channel=hbo-hbo-hits-vsn
+
+#EXTINF:-1 tvg-id="hbo-hbo-signature-vsn" tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="HBO",HBO SIGNATURE 
+https://idcloud.tech/get.php?channel=hbo-hbo-signature-vsn
+
+#EXTINF:-1 tvg-id="hiburan-action-hollywood-movies" tvg-logo="https://i.postimg.cc/GhCjx0s4/A-H-M.png" group-title="HIBURAN",Action Hollywood Movies
+https://idcloud.tech/get.php?channel=hiburan-action-hollywood-movies
+
+#EXTINF:-1 tvg-id="hiburan-american-horrors" tvg-logo="https://i.postimg.cc/8zTCNvDg/AMERICAN-HORRORS.png" group-title="HIBURAN",AMERICAN HORRORS
+https://idcloud.tech/get.php?channel=hiburan-american-horrors
+
+#EXTINF:-1 tvg-id="hiburan-axn-vsn" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="HIBURAN",AXN
+https://idcloud.tech/get.php?channel=hiburan-axn-vsn
+
+#EXTINF:-1 tvg-id="hiburan-black-cinema" tvg-logo="https://i.postimg.cc/RV70kRkT/BLACK-CINEMA.png" group-title="HIBURAN",BLACK CINEMA
+https://idcloud.tech/get.php?channel=hiburan-black-cinema
+
+#EXTINF:-1 tvg-id="hiburan-ccm-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="HIBURAN",CCM
+https://idcloud.tech/get.php?channel=hiburan-ccm-vsn
+
+#EXTINF:-1 tvg-id="hiburan-celestial-movies-vns" tvg-logo="https://i.ibb.co/Lvfpg2w/CELESMV-S1.png" group-title="HIBURAN", Celestial Movies
+https://idcloud.tech/get.php?channel=hiburan-celestial-movies-vns
+
+#EXTINF:-1 tvg-id="hiburan-chinese-drama" tvg-logo="https://i.postimg.cc/wBQJTx0f/logo-chinesedrama-big.png" group-title="HIBURAN",Chinese Drama 
+https://idcloud.tech/get.php?channel=hiburan-chinese-drama
+
+#EXTINF:-1 tvg-id="hiburan-cinema-world" tvg-logo="https://i.postimg.cc/W3pZDRy2/logo-cinemaworld-big.png" group-title="HIBURAN",CINEMA WORLD 
+https://idcloud.tech/get.php?channel=hiburan-cinema-world
+
+#EXTINF:-1 tvg-id="hiburan-cinemax-vsn" tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HIBURAN",CINEMAX 
+https://idcloud.tech/get.php?channel=hiburan-cinemax-vsn
+
+#EXTINF:-1 tvg-id="hiburan-fmn-vsn" tvg-logo="https://i.postimg.cc/Qdr8kvTz/FMN.png" group-title="HIBURAN",FMN
+https://idcloud.tech/get.php?channel=hiburan-fmn-vsn
+
+#EXTINF:-1 tvg-id="hiburan-hits-vsn" tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS
+https://idcloud.tech/get.php?channel=hiburan-hits-vsn
+
+#EXTINF:-1 tvg-id="hiburan-hits-movies-vsn" tvg-logo="https://i.postimg.cc/KzBHFDYf/hits.png" group-title="HIBURAN",HITS MOVIES
+https://idcloud.tech/get.php?channel=hiburan-hits-movies-vsn
+
+#EXTINF:-1 tvg-id="hiburan-kix-vsn" tvg-logo="https://i.ibb.co/2tCNDCG/KIX-S1.png" group-title="HIBURAN",Kix
+https://idcloud.tech/get.php?channel=hiburan-kix-vsn
+
+#EXTINF:-1 tvg-id="hiburan-lifetime-vsn" tvg-logo="https://i.postimg.cc/y8HzM9np/logo-lifetime-big.png" group-title="HIBURAN",LifeTime 
+https://idcloud.tech/get.php?channel=hiburan-lifetime-vsn
+
+#EXTINF:-1 tvg-id="hiburan-multivision" tvg-logo="https://i.postimg.cc/V61pYvBx/MULTIVISION.png" group-title="HIBURAN",MULTIVISION
+https://idcloud.tech/get.php?channel=hiburan-multivision
+
+#EXTINF:-1 tvg-id="hiburan-my-cinema-tv-dens" tvg-logo="" group-title="HIBURAN", MY CINEMA TV
+https://idcloud.tech/get.php?channel=hiburan-my-cinema-tv-dens
+
+#EXTINF:-1 tvg-id="hiburan-rakuten-action-movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png" group-title="HIBURAN", Rakuten Action Movies
+https://idcloud.tech/get.php?channel=hiburan-rakuten-action-movies
+
+#EXTINF:-1 tvg-id="hiburan-thrill-vsn" tvg-logo="https://i.ibb.co/Scz6YSx/THRL-S1.png" group-title="HIBURAN",Thrill
+https://idcloud.tech/get.php?channel=hiburan-thrill-vsn
+
+#EXTINF:-1 tvg-id="hiburan-warnertv-vsn" tvg-logo="https://i.postimg.cc/PfRDqRQj/logo-warner-big.png" group-title="HIBURAN",WARNER TV 
+https://idcloud.tech/get.php?channel=hiburan-warnertv-vsn
+
+#EXTINF:-1 tvg-id="hiburanindo-citra-bioskop-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/1ASddItneuCcle-ekFegZrPA-mo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6684/61417f.png" group-title="HIBURAN INDO",Citra Bioskop
+https://idcloud.tech/get.php?channel=hiburanindo-citra-bioskop-vid
+
+#EXTINF:-1 tvg-id="hiburanindo-citra-drama-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/vrmDRqwZOsoYOuyV_hfOtFs8bJo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="HIBURAN INDO",Citra Drama 
+https://idcloud.tech/get.php?channel=hiburanindo-citra-drama-vid
+
+#EXTINF:-1 tvg-id="hiburanindo-mnc-entertainment-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ent-id.png" group-title="HIBURAN INDO",MNC Entertainment
+https://idcloud.tech/get.php?channel=hiburanindo-mnc-entertainment-vsn
+
+#EXTINF:-1 tvg-id="hiburanindo-mnc-infotainment-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ie-indonesia-id.png" group-title="HIBURAN INDO",MNC Infotainment
+https://idcloud.tech/get.php?channel=hiburanindo-mnc-infotainment-vsn
+
+#EXTINF:-1 tvg-id="hiburanindo-oktv-vsn" tvg-logo="https://i.postimg.cc/43g1BVLn/oktv.png" group-title="HIBURAN INDO",OK TV 
+https://idcloud.tech/get.php?channel=hiburanindo-oktv-vsn
+
+#EXTINF:-1 tvg-id="hiburanindo-ruang-terampil" tvg-logo="https://thumbs2.imgbox.com/ec/c0/UnXb8cVm_t.jpg" group-title="HIBURAN INDO",Ruang TERAMPIL
+https://idcloud.tech/get.php?channel=hiburanindo-ruang-terampil
+
+#EXTINF:-1 tvg-id="hiburanindo-usee-photo1" tvg-logo="https://i.postimg.cc/hjmdHDz8/logo-useephoto-big.png" group-title="HIBURAN INDO", USEE PHOTO (1)
+https://idcloud.tech/get.php?channel=hiburanindo-usee-photo1
+
+#EXTINF:-1 tvg-id="hiburanindo-usee-photo2"  tvg-logo="https://i.postimg.cc/hjmdHDz8/logo-useephoto-big.png" group-title="HIBURAN INDO",USEE PHOTO (2)
+https://idcloud.tech/get.php?channel=hiburanindo-usee-photo2
+
+#EXTINF:-1 tvg-id="hiburanindo-useeprime1" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="HIBURAN INDO", USEE PRIME (1)
+https://idcloud.tech/get.php?channel=hiburanindo-useeprime1
+
+#EXTINF:-1 tvg-id="hiburanindo-useeprime2" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="HIBURAN INDO",USEE PRIME (2)
+https://idcloud.tech/get.php?channel=hiburanindo-useeprime2
+
+#EXTINF:-1 tvg-id="hiburanindo-vision-prime-vsn" tvg-logo="https://i.postimg.cc/FHxc0YSy/VISION-PRIME.png" group-title="HIBURAN INDO",VISION PRIME 
+https://idcloud.tech/get.php?channel=hiburanindo-vision-prime-vsn
+
+#EXTINF:-1 tvg-id="hiburanindo-zee-bioskop-vid" tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="HIBURAN INDO",ZEE BIOSKOP 
+https://idcloud.tech/get.php?channel=hiburanindo-zee-bioskop-vid
+
+#EXTINF:-1 tvg-id="kids-animax-vsn" tvg-logo="https://i.ibb.co/wLxzKbZ/ANNMAX-S1.png" group-title="KIDS",Animax
+https://idcloud.tech/get.php?channel=kids-animax-vsn
+
+#EXTINF:-1 tvg-id="kids-anime-all-day" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png" group-title="KIDS",Anime All Day
+https://idcloud.tech/get.php?channel=kids-anime-all-day
+
+#EXTINF:-1 tvg-id="kids-aniplus-dens" tvg-logo="https://i.postimg.cc/y6SW-YYQV/logo-aniplus-big1.png" group-title="KIDS",Aniplus
+https://idcloud.tech/get.php?channel=kids-aniplus-dens
+
+#EXTINF:-1 tvg-id="kids-baby-tv-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS",Baby TV
+https://idcloud.tech/get.php?channel=kids-baby-tv-vsn
+
+#EXTINF:-1 tvg-id="kids-biznet-kids" tvg-logo="https://i.postimg.cc/GptkPXVZ/bisnet-kids-hd.png" group-title="KIDS", Biznet Kids
+https://idcloud.tech/get.php?channel=kids-biznet-kids
+
+#EXTINF:-1 tvg-id="kids-boomerang-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="KIDS",Boomerang
+https://idcloud.tech/get.php?channel=kids-boomerang-vsn
+
+#EXTINF:-1 tvg-id="kids-cartoon-network-vsn" tvg-logo="https://i.ibb.co/YP9N2Xt/CARTNET-S1.png" group-title="KIDS",Cartoon Network
+https://idcloud.tech/get.php?channel=kids-cartoon-network-vsn
+
+#EXTINF:-1 tvg-id="kids-cbeebies-vsn" tvg-logo="https://i.postimg.cc/HxFx4fxD/cbeebies-bbc.png" group-title="KIDS",Cbeebies BBC 
+https://idcloud.tech/get.php?channel=kids-cbeebies-vsn
+
+#EXTINF:-1 tvg-id="kids-hip-hip-horee-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/-vUtTKf6ogRcvcjURJn62-m-eCU=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="KIDS",HIP HIP HOREE (VID)
+https://idcloud.tech/get.php?channel=kids-hip-hip-horee-vid
+
+#EXTINF:-1 tvg-id="kids-horee-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/PQBfpwpTbQWZDJLLK5REbICdg-g=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="KIDS",HOREE (VID)
+https://idcloud.tech/get.php?channel=kids-horee-vid
+
+#EXTINF:-1 tvg-id="kids-kids-tv-vsn" tvg-logo="https://i.postimg.cc/9FTV8Scb/KIDS-TV.png" group-title="KIDS",KIDS TV 
+https://idcloud.tech/get.php?channel=kids-kids-tv-vsn
+
+#EXTINF:-1 tvg-id="kids-miao-mi-vsn" tvg-logo="https://i.postimg.cc/43LnnKR3/10460173-ico.png" group-title="KIDS",Miao Mi 
+https://idcloud.tech/get.php?channel=kids-miao-mi-vsn
+
+#EXTINF:-1 tvg-id="kids-nickelodeon-vsn" tvg-logo="https://i.ibb.co/d7wKKPT/NCKDEON-S1.png" group-title="KIDS",Nickelodeon
+https://idcloud.tech/get.php?channel=kids-nickelodeon-vsn
+
+#EXTINF:-1 tvg-id="kids-nickjr-vsn" tvg-logo="https://i.postimg.cc/DzMynt1J/logo-nickjr-big.png" group-title="KIDS",NickJr 
+https://idcloud.tech/get.php?channel=kids-nickjr-vsn
+
+#EXTINF:-1 tvg-id="kids-pbs-kids" tvg-logo="https://i.postimg.cc/MKpKh5Lz/PBS-KIDS.png" group-title="KIDS",PBS Kids
+https://idcloud.tech/get.php?channel=kids-pbs-kids
+
+#EXTINF:-1 tvg-id="kids-zoomoo-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/I6-4SXyxld-IPtEgXkXaHIOrw74=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" group-title="KIDS",ZOOMOO (VID)
+https://idcloud.tech/get.php?channel=kids-zoomoo-vid
+
+#EXTINF:-1 tvg-id="knowledge-animal-planet-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE",Animal Planet
+https://idcloud.tech/get.php?channel=knowledge-animal-planet-vsn
+
+#EXTINF:-1 tvg-id="knowledge-bbc-earth-vsn" tvg-logo="https://i.ibb.co/JKHspfC/BEBECEEART-PPI.png" group-title="KNOWLEDGE",BBC Earth
+https://idcloud.tech/get.php?channel=knowledge-bbc-earth-vsn
+
+#EXTINF:-1 tvg-id="knowledge-be-smart-vsn" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_112.png" group-title="KNOWLEDGE",Be Smart 
+https://idcloud.tech/get.php?channel=knowledge-be-smart-vsn
+
+#EXTINF:-1 tvg-id="knowledge-biznet-adventure" tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Biznet Adventure
+https://idcloud.tech/get.php?channel=knowledge-biznet-adventure
+
+#EXTINF:-1 tvg-id="knowledge-cgtn-documentary-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="KNOWLEDGE",CGTN Documentary
+https://idcloud.tech/get.php?channel=knowledge-cgtn-documentary-vsn
+
+#EXTINF:-1 tvg-id="knowledge-crime-investigation-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="KNOWLEDGE",Crime Investigation
+https://idcloud.tech/get.php?channel=knowledge-crime-investigation-vsn
+
+#EXTINF:-1 tvg-id="knowledge-discovery-vsn" tvg-logo="https://i.ibb.co/ZW8xKqW/DESCHANNEL-PPI.png" group-title="KNOWLEDGE",Discovery
+https://idcloud.tech/get.php?channel=knowledge-discovery-vsn
+
+#EXTINF:-1 tvg-id="knowledge-discovery-asia" tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="KNOWLEDGE",DISCOVERY ASIA 
+https://idcloud.tech/get.php?channel=knowledge-discovery-asia
+
+#EXTINF:-1 tvg-id="knowledge-dwtv-vid" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BCboNNIt8gGqFZ4ySztLA4K65_o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="KNOWLEDGE",DW TV (VID)
+https://idcloud.tech/get.php?channel=knowledge-dwtv-vid
+
+#EXTINF:-1 tvg-id="knowledge-hgtv-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="KNOWLEDGE", HGTV
+https://idcloud.tech/get.php?channel=knowledge-hgtv-vsn
+
+#EXTINF:-1 tvg-id="knowledge-history-vsn" tvg-logo="https://i.postimg.cc/D0Gh2H56/logo-history-big.png" group-title="KNOWLEDGE",HISTORY 
+https://idcloud.tech/get.php?channel=knowledge-history-vsn
+
+#EXTINF:-1 tvg-id="knowledge-love-nature" tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="KNOWLEDGE",LOVE NATURE 
+https://idcloud.tech/get.php?channel=knowledge-love-nature
+
+#EXTINF:-1 tvg-id="knowledge-nasa-tv" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE",NASA TV 
+https://idcloud.tech/get.php?channel=knowledge-nasa-tv
+
+#EXTINF:-1 tvg-id="knowledge-natgeowild-vsn" tvg-logo="https://i.postimg.cc/hjfgYfdH/logo-natgeowild-big.png" group-title="KNOWLEDGE",NATGEO WILD 
+https://idcloud.tech/get.php?channel=knowledge-natgeowild-vsn
+
+#EXTINF:-1 tvg-id="knowledge-natgeo-vsn" tvg-logo="https://i.postimg.cc/pLJ25Nv1/logo-natgeo-big.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC 
+https://idcloud.tech/get.php?channel=knowledge-natgeo-vsn
+
+#EXTINF:-1 tvg-id="knowledge-nhk-world-japan-vsn" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="KNOWLEDGE",NHK World Japan
+https://idcloud.tech/get.php?channel=knowledge-nhk-world-japan-vsn
+
+#EXTINF:-1 tvg-id="knowledge-smithsonian" tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" group-title="KNOWLEDGE", Smithsonian Channel 
+https://idcloud.tech/get.php?channel=knowledge-smithsonian
+
+#EXTINF:-1 tvg-id="knowledge-tlc-vsn" tvg-logo="https://i.postimg.cc/DwGKL9TK/TLC.png" group-title="KNOWLEDGE",TLC 
+https://idcloud.tech/get.php?channel=knowledge-tlc-vsn
+
+#EXTINF:-1 tvg-id="knowledge-tv-edukasi-vid" tvg-logo="https://i.postimg.cc/TwTG9JbX/logo-tvedukasi-big1.png" group-title="KNOWLEDGE",TV EDUKASI (VID)
+https://idcloud.tech/get.php?channel=knowledge-tv-edukasi-vid
+
+#EXTINF:-1 tvg-id="korea-k+-dens" tvg-logo="https://i.postimg.cc/HWFhMHwW/logo-kplus-big1.png" group-title="KOREA",K+ 
+https://idcloud.tech/get.php?channel=korea-k+-dens
+
+#EXTINF:-1 tvg-id="korea-kbs-world" tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREA",KBS WORLD 
+https://idcloud.tech/get.php?channel=korea-kbs-world
+
+#EXTINF:-1 tvg-id="korea-one-vsn" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_445.png" group-title="KOREA",One
+https://idcloud.tech/get.php?channel=korea-one-vsn
+
+#EXTINF:-1 tvg-id="korea-tvn-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="KOREA",TvN
+https://idcloud.tech/get.php?channel=korea-tvn-vsn
+
+#EXTINF:-1 tvg-id="korea-tvn-vid" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="KOREA",tvN (VID)
+https://idcloud.tech/get.php?channel=korea-tvn-vid
+
+#EXTINF:-1 tvg-id="korea-tvn-movies-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="KOREA",TvN movies
+https://idcloud.tech/get.php?channel=korea-tvn-movies-vsn
+
+#EXTINF:-1 tvg-id="musik-musik-tv-vsn" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="Music",Music TV
+https://idcloud.tech/get.php?channel=musik-musik-tv-vsn
+
+#EXTINF:-1 tvg-id="musik-mtv-biggest-pop" tvg-logo="https://i.imgur.com/hKFctz9.png" group-title="Music",MTV Biggest POP
+https://idcloud.tech/get.php?channel=musik-mtv-biggest-pop
+
+#EXTINF:-1 tvg-id="musik-mtv-block-party" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="Music",MTV Block Party 
+https://idcloud.tech/get.php?channel=musik-mtv-block-party
+
+#EXTINF:-1 tvg-id="musik-mtv-yo" tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="Music",MTV Yo!
+https://idcloud.tech/get.php?channel=musik-mtv-yo
+
+#EXTINF:-1 tvg-id="sports-abu-dhabi-sports1" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png" group-title="SPORTS", ABU DHABI SPORTS 1
+https://idcloud.tech/get.php?channel=sports-abu-dhabi-sports1
+
+#EXTINF:-1 tvg-id="sports-abu-dhabi-sports2" tvg-logo="https://i.postimg.cc/Bnj7qVw3/ABU-DHABI-SPORTS-2.png" group-title="SPORTS", ABU DHABI SPORTS 2
+https://idcloud.tech/get.php?channel=sports-abu-dhabi-sports2
+
+#EXTINF:-1 tvg-id="sports-abu-dhabi-sports3" tvg-logo="https://i.postimg.cc/4xjLnQr9/ABU-DHABI-SPORTS-3.png" group-title="SPORTS", ABU DHABI SPORTS 3
+https://idcloud.tech/get.php?channel=sports-abu-dhabi-sports3
+
+#EXTINF:-1 tvg-id="sports-abu-dhabi-sports4" tvg-logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png" group-title="SPORTS", ABU DHABI SPORTS 4
+https://idcloud.tech/get.php?channel=sports-abu-dhabi-sports4
+
+#EXTINF:-1 tvg-id="sports-all-sports" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="SPORTS", ALL SPORTS
+https://idcloud.tech/get.php?channel=sports-all-sports
+
+#EXTINF:-1 tvg-id="sports-dubai-sports" tvg-logo="https://i.postimg.cc/RCTDGfnk/DUBAI-SPORTS.png" group-title="SPORTS", DUBAI SPORTS
+https://idcloud.tech/get.php?channel=sports-dubai-sports
+
+#EXTINF:-1 tvg-id="sports-dubai-sports2" tvg-logo="https://i.postimg.cc/T1QNwM6d/DUBAI-SPORTS-2.png" group-title="SPORTS", DUBAI SPORTS 2
+https://idcloud.tech/get.php?channel=sports-dubai-sports2
+
+#EXTINF:-1 tvg-id="sports-dubai-sports3" tvg-logo="https://i.postimg.cc/GpYMDsCS/DUBAI-SPORTS-3.png" group-title="SPORTS", DUBAI SPORTS 3
+https://idcloud.tech/get.php?channel=sports-dubai-sports3
+
+#EXTINF:-1 tvg-id="sports-one-golf" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Golf_Channel.png/revision/latest?cb=20100323073508" group-title="SPORTS",ONE GOLF
+https://idcloud.tech/get.php?channel=sports-one-golf
+
+#EXTINF:-1 tvg-id="sport-red-bull-tv" tvg-logo="https://i.postimg.cc/jjC3yNNn/redbull.png" group-title="SPORTS", RED BULL TV
+https://idcloud.tech/get.php?channel=sport-red-bull-tv
+
+#EXTINF:-1 tvg-id="sports-red-bull-tv-alt" tvg-logo="https://i.postimg.cc/jjC3yNNn/redbull.png" group-title="SPORTS", RED BULL TV (Alt)
+https://idcloud.tech/get.php?channel=sports-red-bull-tv-alt
+
+#EXTINF:-1 tvg-id="sports-ru-sport" tvg-logo="https://i.postimg.cc/Wb3XnyVZ/SPORT-RU.png" group-title="SPORTS",ru sport tv 
+https://idcloud.tech/get.php?channel=sports-ru-sport
+
+#EXTINF:-1 tvg-id="sports-sports-tv" tvg-logo="https://i.postimg.cc/TY4QHc24/SPORTS-TV.png" group-title="SPORTS",Sports TV
+https://idcloud.tech/get.php?channel=sports-sports-tv
+
+#EXTINF:-1 tvg-id="sports-stadium" tvg-logo="https://i.postimg.cc/s2Fm3DhP/STADIUM.png" group-title="SPORTS",STADIUM
+https://idcloud.tech/get.php?channel=sports-stadium
+
+#EXTINF:-1 tvg-id="sports-tvri-sport-hd" tvg-logo="https://i.postimg.cc/mrqXjDNX/tvri-sport.png" group-title="SPORTS",TVRI SPORT HD
+https://idcloud.tech/get.php?channel=sports-tvri-sport-hd
+
+#EXTINF:-1 tvg-id="religi-ahsan-tv" tvg-logo="https://i.postimg.cc/LsSgj80d/AHSAN-TV.png" group-title="RELIGI",AHSAN TV
+https://idcloud.tech/get.php?channel=religi-ahsan-tv
+
+#EXTINF:-1 tvg-id="religi-ajwa-tv-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/vOv_y7LMPnSEX0KlJSnADdHndFI=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" group-title="RELIGI",AJWA TV
+https://idcloud.tech/get.php?channel=religi-ajwa-tv-vid
+
+#EXTINF:-1 tvg-id="religi-alwafa-tv" tvg-logo="" group-title="RELIGI",ALWAFA TV
+https://idcloud.tech/get.php?channel=religi-alwafa-tv
+
+#EXTINF:-1 tvg-id="religi-albahjah-tv" tvg-logo="https://i.postimg.cc/V6KzVFBc/AL-BAHJAH.png" group-title="RELIGI",AL-BAHJAH TV
+https://idcloud.tech/get.php?channel=religi-albahjah-tv
+
+#EXTINF:-1 tvg-id="religi-aliman-tv" tvg-logo="https://i.postimg.cc/rptbwPQ3/AL-IMAN-TV.png" group-title="RELIGI",AL-IMAN TV
+https://idcloud.tech/get.php?channel=religi-aliman-tv
+
+#EXTINF:-1 tvg-id="religi-a-s-a-n" tvg-logo="https://i.postimg.cc/0Q5wbRs1/AL-SUNNAH-AL-NABAWIYAH.png" group-title="RELIGI",Al Sunnah An Nabawiyyah
+https://idcloud.tech/get.php?channel=religi-a-s-a-n
+
+#EXTINF:-1 tvg-id="religi-bina-madani-tv" tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="RELIGI",Bina Madani TV
+https://idcloud.tech/get.php?channel=religi-bina-madani-tv
+
+#EXTINF:1 tvg-id="religi-british-muslim-tv" tvg-logo="https://i.postimg.cc/HLg518vx/BRITISH-MUSLIM.png" group-title="RELIGI",British Muslim
+https://idcloud.tech/get.php?channel=religi-british-muslim-tv
+
+#EXTINF:-1 tvg-id="religi-citra-muslim-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/s6WSgBPwJHnY4vughTA-IkeRG40=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="RELIGI",Citra Muslim
+https://idcloud.tech/get.php?channel=religi-citra-muslim-vid
+
+#EXTINF:-1 tvg-id="religi-iam-channel" tvg-logo="https://i.postimg.cc/prmmPhyj/i-Am.png" group-title="RELIGI",I AM CHANNEL 
+https://idcloud.tech/get.php?channel=religi-iam-channel
+
+#EXTINF:-1 tvg-id="religi-iqraa-tv" tvg-logo="https://i.postimg.cc/N0kXsGZx/IQRAA.png" group-title="RELIGI",Iqraa TV
+https://idcloud.tech/get.php?channel=religi-iqraa-tv
+
+#EXTINF:-1 tvg-id="religi-izzah-tv" tvg-logo="https://i.postimg.cc/mDfnzynD/IZZAH.png" group-title="RELIGI",Izzah TV
+https://idcloud.tech/get.php?channel=religi-izzah-tv
+
+#EXTINF:-1 tvg-id="religi-life-vsn" tvg-logo="https://i.postimg.cc/bw4D6qYR/LIFE.png" group-title="RELIGI",LIFE
+https://idcloud.tech/get.php?channel=religi-life-vsn
+
+#EXTINF:-1 tvg-id="religi-makkah-tv-vid" tvg-logo="https://thumbor.prod.vidiocdn.com/NMGm2f1Xkhy916g4LPLB3wDGc5Y=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6852/1047bc.png" group-title="RELIGI",Makkah TV
+https://idcloud.tech/get.php?channel=religi-makkah-tv-vid
+
+#EXTINF:-1 tvg-id="religi-mta-tv" tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="RELIGI",MTA TV
+https://idcloud.tech/get.php?channel=religi-mta-tv
+
+#EXTINF:-1 tvg-id="religi-muslim-tv-vsn" tvg-logo="https://i.postimg.cc/XJLv0WWm/MUSLIM-TV.png" group-title="RELIGI",MUSLIM TV [VSN+]
+https://idcloud.tech/get.php?channel=religi-muslim-tv-vsn
+
+#EXTINF:-1 tvg-id="religi-rodja-tv-indihome" tvg-logo="https://thumbor.prod.vidiocdn.com/iS9HXEcpF4T0G-pjgFmc6nZDGLA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/19675082/rodjatv-113338.jpg" group-title="RELIGI",RODJA TV
+https://idcloud.tech/get.php?channel=religi-rodja-tv-indihome
+
+#EXTINF:-1 tvg-id="religi-tawaf-tv-vsn" tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" group-title="RELIGI",TAWAF TV [VSN+]
+https://idcloud.tech/get.php?channel=religi-tawaf-tv-vsn
+
+#EXTINF:-1 tvg-id="religi-tv9-vsn" tvg-logo="https://i.postimg.cc/Kvz1x1RN/logo-tv9-big.png" group-title="RELIGI",TV9 
+https://idcloud.tech/get.php?channel=religi-tv9-vsn
+
+#EXTINF:-1 tvg-id="religi-tvmu-vsn" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/1200px-TVMu_logo.svg.png" group-title="RELIGI",TV MU
+https://idcloud.tech/get.php?channel=religi-tvmu-vsn
+
+#EXTINF:-1 tvg-id="religi-tvmui-indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0d/TV_MUI.png" group-title="RELIGI",TV MUI
+https://idcloud.tech/get.php?channel=religi-tvmui-indihome
+
+#EXTINF:-1 tvg-id="lifestyle-biznet-lifestyle" tvg-logo="https://i.postimg.cc/C5wwJTR7/bisnet-lifestyle.png" group-title="LIFESTYLE", Biznet Lifestyle
+https://idcloud.tech/get.php?channel=lifestyle-biznet-lifestyle
+
+#EXTINF:-1 tvg-id="lifestyle-lnf-vsn" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE",Lifestyle & Fashion
+https://idcloud.tech/get.php?channel=lifestyle-lnf-vsn
+
+#EXTINF:-1 tvg-id="lifestyle-wau-hd" tvg-logo="https://i.postimg.cc/fTTw9snT/wau-HD.png" group-title="LIFESTYLE",WAU HD
+https://idcloud.tech/get.php?channel=lifestyle-wau-hd
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS",Astro Supersport 1
+https://idcloud.tech/get.php?channel=AstroSuperSport.my
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS",Astro Supersport 2
+https://idcloud.tech/get.php?channel=AstroSuperSport2.my
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS",Astro Supersport 3
+https://idcloud.tech/get.php?channel=AstroSuperSport3.my
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS",Astro Supersport 4
+https://idcloud.tech/get.php?channel=AstroSuperSport4.my
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.postimg.cc/Jz82wz5m/20220927-065129.png" group-title="SPORTS",Astro Supersport 5
+https://idcloud.tech/get.php?channel=AstroSuperSport5.my
+
+#EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="SPORTS" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 1
+https://idcloud.tech/get.php?channel=beINSportsPremium1.qa
+
+#EXTINF:-1 tvg-id="beINSportsPremium2.qa" group-title="SPORTS" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 2
+https://idcloud.tech/get.php?channel=beINSportsPremium2.qa
+
+#EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="SPORTS" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 3
+https://idcloud.tech/get.php?channel=beINSportsPremium3.qa
+
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.postimg.cc/8PNRNJ9y/20220927-063709.png" group-title="SPORTS",Fox Sports 1
+https://idcloud.tech/get.php?channel=FoxSports1.us
+
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.postimg.cc/pXJBFYKb/20220927-063724.png" group-title="SPORTS",Fox Sports 2
+https://idcloud.tech/get.php?channel=FoxSports2.us
+
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://i.postimg.cc/JzVDwzFh/20221114-212146.png" group-title="SPORTS",Fox Sport 1 Mexico
+https://idcloud.tech/get.php?channel=FoxSportsMexico.mx
+
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://i.postimg.cc/JzVDwzFh/20221114-212146.png" group-title="SPORTS",Fox Sport 2 Mexico
+https://idcloud.tech/get.php?channel=FoxSports2Mexico.mx
+
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://i.postimg.cc/JzVDwzFh/20221114-212146.png" group-title="SPORTS",Fox Sport 3 Mexico
+https://idcloud.tech/get.php?channel=FoxSports3Mexico.mx
+
+#EXTINF:-1 tvg-id="SonyTen1.in" tvg-logo="https://i.postimg.cc/Bb1xb2sy/20220927-065200.png" group-title="SPORTS",Sony Ten 1
+https://idcloud.tech/get.php?channel=SonyTen1.in
+
+#EXTINF:-1 tvg-id="SonyTen2.in" tvg-logo="https://i.postimg.cc/mZcqCqrx/20220927-065156.png" group-title="SPORTS",Sony Ten 2
+https://idcloud.tech/get.php?channel=SonyTen2.in
+
+#EXTINF:-1 tvg-id="SonyTen3.in" tvg-logo="https://i.postimg.cc/xTM4FzHt/20220927-065152.png" group-title="SPORTS",Sony Ten 3
+https://idcloud.tech/get.php?channel=SonyTen3.in
+
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Action
+https://idcloud.tech/get.php?channel=SkySportsAction.uk
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SPORTS" ,Sky Sports Arena
+https://idcloud.tech/get.php?channel=SkySportsArena.uk
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SPORTS" ,Sky Sports Cricket
+https://idcloud.tech/get.php?channel=SkySportsCricket.uk
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png" group-title="SPORTS" ,Sky Sports F1
+https://idcloud.tech/get.php?channel=SkySportsF1.uk
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Football
+https://idcloud.tech/get.php?channel=SkySportsFootball.uk
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Golf
+https://idcloud.tech/get.php?channel=SkySportsGolf.uk
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Main Event
+https://idcloud.tech/get.php?channel=SkySportsMainEvent.uk
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Mix
+https://idcloud.tech/get.php?channel=SkySportsMix.uk
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.postimg.cc/15hW63T6/20220927-064417.png"  group-title="SPORTS",Sky Sports Premier League
+https://idcloud.tech/get.php?channel=SkySportsPremierLeague.uk
+
+#EXTINF:-1 tvg-id="UseeSports1.id" tvg-logo="https://i.postimg.cc/gcf7DDwx/20220927-065147.png" group-title="SPORTS",Usee Sports 1
+https://idcloud.tech/get.php?channel=UseeSports1.id
+
+#EXTINF:-1 tvg-id="UseeSports2.id" tvg-logo="https://i.postimg.cc/gcf7DDwx/20220927-065147.png" group-title="SPORTS",Usee Sports 2 
+https://idcloud.tech/get.php?channel=UseeSports2.id
