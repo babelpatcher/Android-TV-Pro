@@ -1,19 +1,19 @@
 {
     "url": "https://idcloud.tech/gas.php",
-	"playlist": [
-		{
-			"id": 100,
-			"title": "TV"
-		},
-		{
-			"id": 101,
-			"title": "Anime"
-		},
-		{
-			"id": 102,
-			"title": "Vido Original Series"
-		}
-	],
+    "playlist": [
+        {
+            "id": 100,
+            "title": "TV"
+        },
+        {
+            "id": 101,
+            "title": "Anime"
+        },
+        {
+            "id": 102,
+            "title": "Vido Original Series"
+        }
+    ],
     "pins": [
         {
             "domain": "idcloud.tech",
@@ -24,7 +24,7 @@
             ]
         }
     ],
-	"apk": {
+    "apk": {	
         "code": 120,
         "version": "v1.1",
         "url": "https://..."
