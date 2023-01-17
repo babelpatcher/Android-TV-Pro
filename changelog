@@ -1,5 +1,13 @@
-What's new:
+Changelog:
 
-bla bla bla 
+v1.1 b116:
++new feature: version updater
++new feature: channel drowndown
+*fix some glitches
 
-JOSS
+v1.0 b115:
++new feature: dropdown menu
+*fix some glitches
+
+v1.0 b110:
+initial stable release
