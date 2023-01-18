@@ -12,6 +12,42 @@
         {
             "id": 102,
             "title": "Vidio Original Series"
+        },
+        {
+            "id": 201,
+            "title": "Film Hollywood"
+        },
+        {
+            "id": 202,
+            "title": "Film Bollywood"
+        },
+        {
+            "id": 203,
+            "title": "Film Indonesia"
+        },
+        {
+            "id": 204,
+            "title": "Film Korea"
+        },
+        {
+            "id": 205,
+            "title": "Film Chinese"
+        },
+        {
+            "id": 206,
+            "title": "Film Thailand"
+        },
+        {
+            "id": 207,
+            "title": "Film Action"
+        },
+        {
+            "id": 208,
+            "title": "Film Comedy"
+        },
+        {
+            "id": 209,
+            "title": "Film Romance"
         }
     ],
     "pins": [
