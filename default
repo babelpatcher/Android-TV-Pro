@@ -14,40 +14,84 @@
             "title": "action"
         },
         {
-            "id": 201,
-            "title": "Film Hollywood"
+            "id": 302,
+            "title": "adventure"
         },
         {
-            "id": 202,
-            "title": "Film Bollywood"
+            "id": 303,
+            "title": "animation"
         },
         {
-            "id": 203,
-            "title": "Film Indonesia"
+            "id": 304,
+            "title": "biography"
         },
         {
-            "id": 204,
-            "title": "Film Korea"
+            "id": 305,
+            "title": "comedy"
         },
         {
-            "id": 205,
-            "title": "Film Chinese"
+            "id": 306,
+            "title": "crime"
         },
         {
-            "id": 206,
-            "title": "Film Thailand"
+            "id": 307,
+            "title": "documentary"
         },
         {
-            "id": 207,
-            "title": "Film Action"
+            "id": 308,
+            "title": "drama"
         },
         {
-            "id": 208,
-            "title": "Film Comedy"
+            "id": 309,
+            "title": "family"
         },
         {
-            "id": 209,
-            "title": "Film Romance"
+            "id": 310,
+            "title": "fantasy"
+        },
+        {
+            "id": 311,
+            "title": "history"
+        },
+        {
+            "id": 312,
+            "title": "horror"
+        },
+        {
+            "id": 313,
+            "title": "mystery"
+        },
+        {
+            "id": 314,
+            "title": "thriller"
+        },
+        {
+            "id": 315,
+            "title": "war"
+        },
+        {
+            "id": 316,
+            "title": "romance"
+        },
+        {
+            "id": 317,
+            "title": "reality"
+        },
+        {
+            "id": 318,
+            "title": "sci-fi"
+        },
+        {
+            "id": 319,
+            "title": "music"
+        },
+        {
+            "id": 320,
+            "title": "sport"
+        },
+        {
+            "id": 321,
+            "title": "western"
         }
     ],
     "pins": [
