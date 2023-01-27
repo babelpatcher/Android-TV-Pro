@@ -1,16 +1,19 @@
 Changelog:
 
+v1.3 b121:
+*fix: adaptive thumbnail size
+
 v1.3 b120:
 +new category in dropdown menu
-*fix thumbnail size
+*fix: thumbnail size on big zcreen
 
 v1.1 b116:
 +new feature: version updater
-*fix some glitches
+*fix: some glitches
 
 v1.0 b115:
 +new feature: dropdown menu
-*fix some glitches
+*fix: some glitches
 
 v1.0 b110:
 initial stable release
