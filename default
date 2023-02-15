@@ -117,9 +117,9 @@
         }
     ],
     "apk": {	
-        "code": 121,
-        "version": "v1.3",
-        "url": "https://idcloud.tech/apks/hometech.android.tv_v1.3_b121.apk",
-        "md5": "6d99efeb127f98bf8fc8fc9c39576eb9"
+        "code": 124,
+        "version": "v1.4",
+        "url": "https://idcloud.tech/apks/hometech.android.tv_v1.4_b124.apk",
+        "md5": "6833bbed9ba5ce52d9c2e6644f025f2f"
     }
 }
