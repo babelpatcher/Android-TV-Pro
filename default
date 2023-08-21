@@ -1,0 +1,28 @@
+{
+    "url": "https://hometv.my.id/gas.php",
+    "playlist": [
+        {
+            "id": 100,
+            "title": "TV"
+        }
+    ],
+    "pins": [
+        {
+            "domain": "hometv.my.id",
+            "certs": [
+                "sha256/PpwqXhwkKJcIGWuZGG58Mi9EYiApH1dBkX9WtGuOCFc=",
+                "sha256/jQJTbIh0grw0/1TkHSumWb+Fs0Ggogr621gT3PvPKG0=",
+                "sha256/C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=",
+                "sha256/47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+                "sha256/qlJvUaRP4/Oodg/x84EZ52Ulu8y9eUHh++IjI8zJ2bc=",
+                "sha256/RQeZkB42znUfsDIIFWIRiYEcKl7nHwNFwWCrnMMJbVc="
+            ]
+        }
+    ],
+    "apk": {	
+        "code": 139,
+        "version": "v1.8",
+        "url": "https://hometv.my.id/apks/hometech.android.tv_v1.8_b139.apk",
+        "md5": "26c7d3fb3cbb1a994113337d9c0c68f0"
+    }
+}
