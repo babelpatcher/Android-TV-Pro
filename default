@@ -1,5 +1,5 @@
 {
-    "url": "https://hometv.my.id/gas.php",
+    "url": "https://hometv.my.id/gasen.php",
     "playlist": [
         {
             "id": 100,
@@ -10,22 +10,18 @@
         {
             "domain": "hometv.my.id",
             "certs": [
-                "sha256/Rg0VyJtK3LGJxrg/W3ozoJeP2N6oLgxWdExtS49vr0w=",
+                "sha256/swTW8sj4D+2SEm35qseWMhTcXcY5S4aJ+fMJOKngH4U=",
                 "sha256/jQJTbIh0grw0/1TkHSumWb+Fs0Ggogr621gT3PvPKG0=",
-                "sha256/C5+lpZ7tcVwmwQIMcRtPbsQtWLABXhQzejna0wHFr8M=",
-                "sha256/Yl9/1dWo/ojT+zqpjKsSl9+w+dGHfXqWruMpKTF5uBw=",
-                "sha256/81Wf12bcLlFHQAfJluxnzZ6Frg+oJ9PWY/Wrwur8viQ=",
-                "sha256/hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=",
-                "sha256/47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-                "sha256/qlJvUaRP4/Oodg/x84EZ52Ulu8y9eUHh++IjI8zJ2bc=",
-                "sha256/RQeZkB42znUfsDIIFWIRiYEcKl7nHwNFwWCrnMMJbVc="
+                "sha256/Ud9Oxx5y+qyQ29XYWk7CD1oZVZ50uqrMVeowBnkRW6s=",
+                "sha256/Wec45nQiFwKvHtuHxSAMGkt19k+uPSw9JlEkxhvYPHk=",
+                "sha256/47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
             ]
         }
     ],
-    "apk": {	
-        "code": 143,
+    "apk": {
+        "code": 163,
         "version": "v1.9",
-        "url": "https://hometv.my.id/apks/hometech.android.tv_v1.9_b143.apk",
-        "md5": "a7982418bd7b9f7be1efa79650e10a2e"
+        "url": "https://hometv.my.id/apks/hometech.android.tv_v1.9_b163.apk",
+        "md5": "92ff5f9f06dd4dc3b636879f7426d83f"
     }
 }
